@@ -1,0 +1,1 @@
+export const numValidator = (value) => (!!value.match(/^7\d{10}/));
